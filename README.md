@@ -13,6 +13,7 @@ Each of these is the same gene in different strains of the SARS-CoV-2 virus, tha
 
 DNA to amino acid
 In an organism, the DNA sequence for a gene is translated into an amino acid sequence for a protein. This translation is done by taking groups of three DNA letters (this is called a codon) and then looking up in a table the amino acid that codon represents. Because there are four DNA letters and each codon contains three letters, there are 64 possible codons. Amino acids are represented by a three-letter abbreviation. Here are the first few rows of the translation table:
+(View Raw for this part to display properly)
 
 Codon     Amino acid Abbreviation     Amino acid full name
 AAA	      Lys	                        Lysine
