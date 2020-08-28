@@ -5,9 +5,9 @@ Programs analyzing genome sequence of Covid-19
 DNA sequences
 A DNA (or RNA) sequence is a simply a long string containing only the characters a, c, g, t. These three text files each consist of a single, long (almost 4000 characters) DNA sequence:
 
-SARSCoV2-S-gene-CA.txt
-SARSCoV2-S-gene-IL.txt
-SARSCoV2-S-gene-WH.txt
+SARSCoV2-S-gene-CA.txt \n
+SARSCoV2-S-gene-IL.txt \n
+SARSCoV2-S-gene-WH.txt \n
 
 Each of these is the same gene in different strains of the SARS-CoV-2 virus, that is, the virus that causes COVID-19. These sequences were collected in three widely separated places (California, Illinois, Wuhan). This particular gene codes for the S protein in the virus.
 
